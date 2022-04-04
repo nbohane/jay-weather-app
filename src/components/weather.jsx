@@ -1,3 +1,5 @@
+//the weather component is for each singular day.
+
 import React, {useState, useEffect} from "react"
 
 const Weather = (props) => {

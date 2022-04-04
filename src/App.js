@@ -1,7 +1,7 @@
-import './App.css';
 import Forcast from './components/forcast';
 
 function App() {
+  console.log('app render');
   return (
     <div>
       <Forcast/>
